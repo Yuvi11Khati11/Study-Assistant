@@ -2,8 +2,9 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yuvi-study-assistant.streamlit.app)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Project Report](https://img.shields.io/badge/Report-PDF-red.svg)](Study_Assistant_Project_Report.pdf)
 
-> 🚀 **Live Demo**: [**yuvi-study-assistant.streamlit.app**](https://yuvi-study-assistant.streamlit.app)
+> 🚀 **Live Demo**: [**yuvi-study-assistant.streamlit.app**](https://yuvi-study-assistant.streamlit.app) | 📄 **Full Technical Report**: [**Study_Assistant_Project_Report.pdf**](Study_Assistant_Project_Report.pdf)
 
 An open-source, offline-first Retrieval-Augmented Generation (RAG) study assistant built with Streamlit, SentenceTransformers, and FAISS. Students can upload their course notes, syllabi, and textbooks in PDF format, ask questions, and receive factual answers grounded solely in the uploaded documents—complete with exact file name and page number citations.
 
