@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 1
+  },
+  {
+    "question": "How does L1 regularization differ from L2 regularization in preventing overfitting?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 1
+  },
+  {
+    "question": "What is the bias-variance tradeoff and how does it relate to underfitting and overfitting?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 1
+  },
+  {
+    "question": "How does gradient descent optimize empirical loss functions and what is k-fold cross-validation?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 1
+  },
+  {
+    "question": "What are primary keys and foreign keys in the relational database model?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "What are the four ACID properties in database transaction management?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "How do B-Tree index structures improve database query lookup performance?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "What is the difference between an INNER JOIN and a LEFT OUTER JOIN in SQL?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "What distinct lifecycle states does an operating system process transition through?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "How does Round Robin CPU scheduling use time quanta to ensure fairness?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "What happens during an operating system context switch between threads?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "What are the four Coffman conditions required for a deadlock to occur in an operating system?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "What are the seven abstraction layers of the OSI reference model?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 4
+  },
+  {
+    "question": "How does the TCP three-way handshake establish a reliable network connection?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 4
+  },
+  {
+    "question": "Why is UDP preferred over TCP for real-time video streaming and VoIP?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 4
+  },
+  {
+    "question": "How does the DNS resolution process translate a domain name into an IP address?",
+    "expected_source": "sample_notes.pdf",
+    "expected_page": 4
+  }
+]
